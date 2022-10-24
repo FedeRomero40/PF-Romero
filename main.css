@@ -1,5 +1,8 @@
+
 /* tbebe.Css Fede Romero */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
+
+
 
 /*  normalize  Fede Romero */
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
@@ -25,6 +28,7 @@ legend{color:inherit;display:table;max-width:%;padding:0;white-space:normal}text
 [type=search]::-webkit-search-decoration{-webkit-appearance:none}
 ::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}
 /* End extract */
+
 html,body{font-family:Verdana,sans-serif;font-size:15px;line-height:1.5}html{overflow-x:hidden}
 h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}
 .tbebe-serif{font-family:serif}.tbebe-sans-serif{font-family:sans-serif}.tbebe-cursive{font-family:cursive}.tbebe-monospace{font-family:monospace}
@@ -34,7 +38,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .tbebe-title1 {font-size:120px!important}
 .tbebe-packs {margin-bottom:64px}
 .tbebe-creator{width:160px!important}
-.tbebe-imagenbebe{width:40%!important}
+.tbebe-imagenbebe{width:20%!important}
 .tbebe-image{width:200px;height:200px;transition:all 4s}img{vertical-align:middle}a{color:inherit}/* Agregado de animacion al mapa*/
 .tbebe-image:hover{width:400px;height:400px}/* Agregado de animacion al mapa*/
 .tbebe-table,.tbebe-table-all{border-collapse:collapse;border-spacing:0;width:100%;display:table}.tbebe-table-all{border:1px solid #ccc}
