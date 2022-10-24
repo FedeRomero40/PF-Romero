@@ -30,6 +30,7 @@ h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-
 .tbebe-serif{font-family:serif}.tbebe-sans-serif{font-family:sans-serif}.tbebe-cursive{font-family:cursive}.tbebe-monospace{font-family:monospace}
 h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}.tbebe-wide{letter-spacing:4px}
 hr{border:0;border-top:1px solid #eee;margin:20px 0}
+.tbebe-title1 {font-size:120px}
 .tbebe-image{width:200px;height:200px;transition:all 4s}img{vertical-align:middle}a{color:inherit}/* Agregado de animacion al mapa*/
 .tbebe-image:hover{width:400px;height:400px}/* Agregado de animacion al mapa*/
 .tbebe-table,.tbebe-table-all{border-collapse:collapse;border-spacing:0;width:100%;display:table}.tbebe-table-all{border:1px solid #ccc}
