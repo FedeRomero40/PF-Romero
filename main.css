@@ -244,3 +244,29 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .tbebe-border-dark-grey,.tbebe-hover-border-dark-grey:hover,.tbebe-border-dark-gray,.tbebe-hover-border-dark-gray:hover{border-color:#616161!important}
 .tbebe-border-pale-red,.tbebe-hover-border-pale-red:hover{border-color:#ffe7e7!important}.tbebe-border-pale-green,.tbebe-hover-border-pale-green:hover{border-color:#e7ffe7!important}
 .tbebe-border-pale-yellow,.tbebe-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.tbebe-border-pale-blue,.tbebe-hover-border-pale-blue:hover{border-color:#e7ffff!important}
+ body,
+html {
+    height: 100%;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Amatic SC", sans-serif
+}
+
+.menu {
+    display: none
+}
+
+.bgimg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("media/imagenes/imagtodobebepagprincipal.webp");
+    min-height: 100%;
+}
+ 
