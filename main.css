@@ -1,5 +1,5 @@
 
-/* tbebe.Css Fede Romero  */
+/* tbebe.Css Fede Romero */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 
 
@@ -40,7 +40,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .tbebe-creator{width:160px!important}
 .tbebe-imagenbebe{width:20%!important}
 .tbebe-image{width:200px;height:200px;transition:all 4s}img{vertical-align:middle}a{color:inherit}/* Agregado de animacion al mapa*/
-.tbebe-image:hover{width:400px;height:400px}/* Agregado de animacion al mapa*/
+.tbebe-image:hover{width:300px;height:300px}/* Agregado de animacion al mapa*/
 .tbebe-table,.tbebe-table-all{border-collapse:collapse;border-spacing:0;width:100%;display:table}.tbebe-table-all{border:1px solid #ccc}
 .tbebe-bordered tr,.tbebe-table-all tr{border-bottom:1px solid #ddd}.tbebe-striped tbody tr:nth-child(even){background-color:#f1f1f1}
 .tbebe-table-all tr:nth-child(odd){background-color:rgb(255, 255, 255)}.tbebe-table-all tr:nth-child(even){background-color:#f1f1f1}
