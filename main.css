@@ -269,4 +269,12 @@ h6 {
     background-image: url("media/imagenes/imagtodobebepagprincipal.webp");
     min-height: 100%;
 }
- 
+ @media screen and (max-width=600px)
+ {.bgimg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("media/imagenes/bebe6.webp");
+    min-height: 100%;
+   
+}};
+
